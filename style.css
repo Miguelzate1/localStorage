@@ -1,0 +1,11 @@
+main{
+   
+  display: flex;
+  justify-content: center;
+}
+
+
+h4{
+    text-align: center;
+  justify-content: center;  
+}
